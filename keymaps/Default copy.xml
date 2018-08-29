@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
