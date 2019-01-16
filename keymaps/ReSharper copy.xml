@@ -1,17 +1,1 @@
-<keymap version="1" name="ReSharper copy" parent="ReSharper">
-  <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl alt 3" />
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateGulpToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
-  <action id="HippieBackwardCompletion" />
-  <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="shift alt slash" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl alt slash" />
-  </action>
-</keymap>
+<keymap version="1" name="ReSharper copy" />
