@@ -8,6 +8,7 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="disableJitOptimizationOnModuleLoad" value="false" />
           <option name="remappedSourceLocationsMap">
             <map />
           </option>
