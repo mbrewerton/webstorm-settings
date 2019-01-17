@@ -1,4 +1,8 @@
 <keymap version="1" name="Rider copy" parent="Rider">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateFindToolWindow" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
