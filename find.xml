@@ -14,12 +14,12 @@
     <mask>*.js, *.html</mask>
     <mask>*.html,*.js</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.CS</mask>
-    <mask>*.resx</mask>
     <mask>*.cs</mask>
     <mask>*.js</mask>
     <mask>*.js,*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
