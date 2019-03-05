@@ -10,4 +10,7 @@
   <action id="ShowGulpTasks">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
 </keymap>
