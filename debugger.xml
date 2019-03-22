@@ -13,6 +13,9 @@
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="sshCredentials">
             <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;9090&quot; USERNAME=&quot;matt@mattbrewerton.co.uk&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
+            <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;1080&quot; USERNAME=&quot;matt@mattbrewerton.co.uk&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
+            <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;9090&quot; USERNAME=&quot;&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;true&quot; /&gt;" />
+            <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;9090&quot; USERNAME=&quot;matt@mattbrewerton.co.uk&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;true&quot; /&gt;" />
           </option>
           <option name="remappedSourceLocationsMap">
             <map />
