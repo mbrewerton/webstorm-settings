@@ -4,6 +4,7 @@
     <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
+    <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -13,6 +14,7 @@
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="search.everywhere.settings" value="true" />
-    <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
+    <entry key="actionSystem.fix.alt.gr" value="true" />
+    <entry key="vcs.annotations.preload" value="true" />
   </component>
 </application>

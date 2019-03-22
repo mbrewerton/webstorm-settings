@@ -7,7 +7,6 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="allowTypingDuringDebug" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="disableJitOptimizationOnModuleLoad" value="false" />
           <option name="enableExternalSourceDebug" value="false" />
