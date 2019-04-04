@@ -3,4 +3,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt 3" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ShowGulpTasks">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
 </keymap>
