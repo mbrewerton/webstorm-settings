@@ -1,0 +1,6 @@
+<keymap version="1" name="ReSharper copy 2" parent="ReSharper">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+</keymap>
