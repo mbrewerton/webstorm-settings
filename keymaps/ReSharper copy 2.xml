@@ -4,7 +4,7 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ShowGulpTasks">
+  <action id="ActivateGulpToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="SplitHorizontally">
