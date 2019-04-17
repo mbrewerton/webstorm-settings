@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="smtp4dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\smtp4dev\Rnwood.Smtp4dev.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/smtp4dev" />
+    </exec>
+  </tool>
+</toolSet>
