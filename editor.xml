@@ -14,7 +14,7 @@
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-    <pattern icon="important" pattern="Fact(Skip" />
+    <pattern icon="important" pattern="Fact\(Skip" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
