@@ -21,4 +21,8 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
 </keymap>
