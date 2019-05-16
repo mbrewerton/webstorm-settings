@@ -11,6 +11,7 @@
           <option name="automaticallyRefreshWatches" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="disableJitOptimizationOnModuleLoad" value="false" />
+          <option name="enableExternalSourceDebug" value="false" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="sshCredentials">
             <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;9090&quot; USERNAME=&quot;matt@mattbrewerton.co.uk&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
