@@ -25,4 +25,7 @@
     <keyboard-shortcut first-keystroke="shift alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
+  <action id="XDebugger.SwitchWatchesInVariables">
+    <keyboard-shortcut first-keystroke="shift number_sign" />
+  </action>
 </keymap>
