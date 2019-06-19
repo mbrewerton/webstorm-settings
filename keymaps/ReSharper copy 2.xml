@@ -15,6 +15,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="ShowGulpTasks">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
