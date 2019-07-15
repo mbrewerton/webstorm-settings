@@ -3,7 +3,7 @@
     <property name="created">2019-07-15T12:03:56</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-07-15T12:08:21</property>
+    <property name="modified">2019-07-15T12:48:17</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <attributes>
@@ -57930,6 +57930,17 @@
       <value>
         <option name="BACKGROUND" value="4c174d" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="282828" />
+      </value>
+    </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="761923" />
       </value>
     </option>
   </attributes>
