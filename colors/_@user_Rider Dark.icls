@@ -3,9 +3,13 @@
     <property name="created">2019-07-15T12:03:56</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-07-15T12:48:17</property>
+    <property name="modified">2019-07-16T13:55:59</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="123d15" />
+    <option name="GUTTER_BACKGROUND" value="" />
+  </colors>
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
       <value>
