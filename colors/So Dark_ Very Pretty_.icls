@@ -3,7 +3,7 @@
     <property name="created">2019-07-17T09:47:37</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-07-17T09:47:39</property>
+    <property name="modified">2019-07-17T10:25:55</property>
     <property name="originalScheme">_@user_Rider Dark</property>
   </metaInfo>
   <colors>
@@ -12,12 +12,24 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="fffefe" />
   </colors>
   <attributes>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="629755" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="HTML_CODE" baseAttributes="TEXT" />
+    <option name="HTML_COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
     <option name="JS.BRACES" baseAttributes="DEFAULT_BRACES" />
     <option name="JS.DOT" baseAttributes="DEFAULT_DOT" />
     <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
@@ -57947,12 +57959,14 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="282828" />
       </value>
     </option>
+    <option name="TS.PARAMETER" baseAttributes="JS.PARAMETER" />
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="761923" />
