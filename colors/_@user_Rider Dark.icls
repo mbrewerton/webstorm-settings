@@ -3,7 +3,7 @@
     <property name="created">2019-07-15T12:03:56</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-07-17T09:08:24</property>
+    <property name="modified">2019-07-17T09:23:43</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <colors>
@@ -18,6 +18,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="JS.DOT" baseAttributes="DEFAULT_DOT" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="FONT_TYPE" value="1" />
