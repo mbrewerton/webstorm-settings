@@ -11,6 +11,7 @@
           <option name="automaticallyRefreshWatches" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="disableJitOptimizationOnModuleLoad" value="false" />
+          <option name="editAndContinueEnabled" value="false" />
           <option name="enableExternalSourceDebug" value="false" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="shouldPromoteEditAndContinue" value="false" />
