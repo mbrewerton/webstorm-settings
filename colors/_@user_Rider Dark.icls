@@ -3,7 +3,7 @@
     <property name="created">2019-07-15T12:03:56</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-07-17T09:23:43</property>
+    <property name="modified">2019-08-15T08:50:40</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <colors>
@@ -12,6 +12,13 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="fffefe" />
   </colors>
   <attributes>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -57947,6 +57954,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ReSharper.LATE_BOUND_IDENTIFIER" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
