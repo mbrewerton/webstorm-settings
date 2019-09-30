@@ -4,6 +4,9 @@
       <action id="Github.Create.Pull.Request">
         <abbreviation name="pr" />
       </action>
+      <action id="Git.Fetch">
+        <abbreviation name="gf" />
+      </action>
     </abbreviations>
   </component>
 </application>
