@@ -3,7 +3,7 @@
     <property name="created">2019-07-15T12:03:56</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-09-23T10:13:58</property>
+    <property name="modified">2019-11-15T14:50:25</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <colors>
@@ -57970,6 +57970,13 @@
       <value>
         <option name="BACKGROUND" value="4c174d" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f0f0f0" />
+        <option name="BACKGROUND" value="1f7e68" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.LATE_BOUND_IDENTIFIER" baseAttributes="DEFAULT_INSTANCE_FIELD" />
