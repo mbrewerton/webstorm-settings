@@ -22,9 +22,9 @@
     <mask>*.resx</mask>
     <mask>*.resx</mask>
     <mask>*.cs</mask>
-    <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
     <mask>*.html</mask>
   </component>
 </application>
