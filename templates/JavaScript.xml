@@ -1,0 +1,6 @@
+<templateSet group="JavaScript">
+  <template name="exportall" value="export * from &quot;$MODULE$&quot;;$END$" description="Export statement - export * from 'a'" toReformat="true" toShortenFQNames="true">
+    <variable name="MODULE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
