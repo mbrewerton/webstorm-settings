@@ -1,4 +1,4 @@
-<keymap version="1" name="Rider copy" parent="Rider">
+<keymap version="1" name="Rider copy">
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
