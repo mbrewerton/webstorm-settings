@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="my-forms" type="PLAIN_TEXT" />
       <mapping pattern=".suo" type="PLAIN_TEXT" />
+      <mapping ext="tgz" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
