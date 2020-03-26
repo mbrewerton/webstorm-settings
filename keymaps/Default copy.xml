@@ -2,9 +2,10 @@
   <action id="CopyElement" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
-    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="GotoNextError" />
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
@@ -15,8 +16,8 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
-  <action id="Resume">
-    <keyboard-shortcut first-keystroke="f9" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="SplitVertically">
