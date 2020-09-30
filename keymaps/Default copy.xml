@@ -8,10 +8,14 @@
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="CopyElement" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
-    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="alt f5" />
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -44,10 +48,6 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f5" />
-  </action>
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="shift f10" />
-    <keyboard-shortcut first-keystroke="alt f5" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
