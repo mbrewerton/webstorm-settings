@@ -32,6 +32,9 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="GotoNextError" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
@@ -48,9 +51,6 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f5" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
