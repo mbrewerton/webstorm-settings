@@ -8,7 +8,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>site.resx</mask>
     <mask>*.js, *.html</mask>
@@ -26,5 +25,6 @@
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.html</mask>
+    <mask>*.css</mask>
   </component>
 </application>
