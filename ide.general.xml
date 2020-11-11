@@ -28,7 +28,5 @@
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="show.log.as.editor.tab" value="false" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
-    <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
