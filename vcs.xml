@@ -30,9 +30,13 @@
           <option name="url" value="http://anduin.hibnet.co.uk/RateMyMog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ClickDatabasesLtd/TypescriptTranslationPOC" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\MattBrewerton" />
+    <option name="cloneParentDir" value="C:\Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
