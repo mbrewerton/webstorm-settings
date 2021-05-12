@@ -30,6 +30,10 @@
           <option name="url" value="http://anduin.hibnet.co.uk/RateMyMog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://mbrewerton@anduin.hibnet.co.uk/roco-helper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\MattBrewerton" />
