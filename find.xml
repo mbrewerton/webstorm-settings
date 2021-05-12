@@ -1,14 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'Roco-Helper'" />
+    <option name="defaultScopeName" value="Project 'Roco-Helper'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'Roco-Helper'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>site.resx</mask>
     <mask>*.js, *.html</mask>
@@ -22,8 +23,10 @@
     <mask>*.resx</mask>
     <mask>*.cs</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
