@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="f5" />
@@ -32,6 +33,9 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="GotoNextError" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
@@ -49,8 +53,9 @@
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  <action id="RunJsbtTask">
+    <keyboard-shortcut first-keystroke="alt f11" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
@@ -63,6 +68,9 @@
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" />

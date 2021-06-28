@@ -1,20 +1,20 @@
-<scheme name="_@user_Arc Dark" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Arc Dark (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-09-25T09:32:22</property>
+    <property name="created">2021-02-15T09:14:01</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-12-10T14:17:11</property>
-    <property name="originalScheme">Arc Dark</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-02-15T16:07:21</property>
+    <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="10" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="10" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -26,6 +26,15 @@
     <option name="CARET_ROW_COLOR" value="3e424d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="262b33" />
     <option name="DELETED_LINES_COLOR" value="cf6a4c" />
+    <option name="DIAGRAM_ANNOTATION_EDGE" value="47bc9b" />
+    <option name="DIAGRAM_DEFAULT_EDGE" value="7587a6" />
+    <option name="DIAGRAM_GENERALIZATION_EDGE" value="9b859d" />
+    <option name="DIAGRAM_INNER_EDGE" value="7587a6" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="262b33" />
+    <option name="DIAGRAM_NODE_HEADER" value="393f4c" />
+    <option name="DIAGRAM_NOTE_BACKGROUND" value="262b33" />
+    <option name="DIAGRAM_NOTE_BORDER" value="7587a6" />
+    <option name="DIAGRAM_REALIZATION_EDGE" value="cda869" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="262b33" />
@@ -387,6 +396,7 @@
       <value>
         <option name="FOREGROUND" value="cda869" />
         <option name="EFFECT_COLOR" value="cda869" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -3222,6 +3232,8 @@
     </option>
     <option name="RUNTIME_ERROR">
       <value>
+        <option name="EFFECT_COLOR" value="cf6a4c" />
+        <option name="ERROR_STRIPE_COLOR" value="cf6a4c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
